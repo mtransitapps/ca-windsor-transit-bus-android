@@ -454,7 +454,7 @@
 200280,'','Riverside / Shoreline Towers',42.342395,-82.939781
 200281,'','Riverside / Bayview Towers',42.34239,-82.939092
 200284,'','Riverside / Riverside Towers',42.342434,-82.938032
-200285,'','Riverside / St Clair Towers',42.342225,-82.937438
+200285,'','Riverside / St. Clair Towers',42.342225,-82.937438
 200288,'','Riverside / Solidarity Towers',42.341451,-82.935565
 200289,'','Riverside / Island Vw Towers',42.34134,-82.935647
 200292,'','Riverside / Marina',42.340133,-82.933238
@@ -906,7 +906,7 @@
 600065,'','Dougall / Plz',42.286683,-83.022891
 600068,'','Dougall / Rose Bowl',42.286745,-83.02262
 600069,'','Eugenie / Dougall',42.285338,-83.021221
-600072,'','Eugenie / Pelissier',42.285742,-83.02062
+600072,'','Eugenie / Pelissier',42.285806,-83.020447
 600073,'','Eugenie / Ouellette',42.285956,-83.019366
 600076,'','Dougall / EC Row',42.278362,-83.017164
 600077,'','Dougall / EC Row',42.277649,-83.017139
@@ -916,7 +916,7 @@
 600085,'','Dougall / Nottingham',42.270078,-83.012235
 600089,'','Dougall / Norfolk',42.268169,-83.011018
 600092,'','Dougall / Liberty',42.266944,-83.009882
-600093,'','Dougall / Liberty',42.265726,-83.009441
+600093,'','Dougall / Liberty',42.266447,-83.009913
 600096,'','Dougall / Beals',42.26403,-83.008077
 600097,'','Dougall / Beals',42.263299,-83.007865
 600100,'','Dougall / Medina',42.261992,-83.006777
@@ -953,7 +953,7 @@
 600161,'','Cousineau / Mt. Royal',42.243125,-83.009669
 600162,'','Cousineau / Mt. Royal',42.242945,-83.010008
 600170,'','Cousineau / Kendleton',42.242437,-83.012989
-600177,'','St Clair College Front Entrance',42.246081,-83.017859
+600177,'','St. Clair College Front Entrance',42.246081,-83.017859
 700001,'','College Ave / Community Ctr',42.296008,-83.071176
 700002,'','Prince / College',42.289586,-83.074473
 700006,'','Prince / Barrymore',42.288835,-83.071418
