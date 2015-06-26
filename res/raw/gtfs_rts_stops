@@ -226,8 +226,8 @@
 130310,'','Tecumseh / Walmart',42.312444,-82.941923
 130313,'','Tecumseh Mall Rear Entrance',42.315961,-82.936339
 130314,'','Tecumseh Mall Rear Entrance',42.316098,-82.936543
-130317,'','Tecumseh / Lauzon Parkway',42.313109,-82.936916
-130318,'','Tecumseh / Lauzon Parkway',42.313231,-82.937876
+130317,'','Tecumseh / Lauzon Pkwy',42.313109,-82.936916
+130318,'','Tecumseh / Lauzon Pkwy',42.313231,-82.937876
 130321,'','Tecumseh / Annie',42.313658,-82.934063
 130322,'','Tecumseh / Annie',42.313794,-82.934991
 130325,'','Tecumseh / Lauzon',42.314078,-82.93085
@@ -522,7 +522,7 @@
 300045,'','Whitney / Chappell',42.282335,-83.062999
 300049,'','Whitney / Sun Vly',42.281022,-83.0636
 300053,'','Sun Vly / Greenview',42.279152,-83.062763
-300057,'','Sun Vly / Parkway',42.278775,-83.06126
+300057,'','Sun Vly / Pkwy',42.278775,-83.06126
 300061,'','Sun Vly / Malden',42.278397,-83.059345
 300065,'','Brunet / Industrial',42.27802,-83.057529
 300069,'','Industrial / Windsor ABC',42.275423,-83.056581
