@@ -1,26 +1,26 @@
-201,0,'College Ave Community Ctr',2
-200,0,'Tecumseh Mall',2
-301,0,'College Ave Community Ctr',3
-300,0,'Transit Ctr',3
-401,0,'Downtown Transit Terminal',4
-400,0,'Meadowbrook Via Tecumseh Mall',4
-501,0,'Downtown Transit Terminal',5
-500,0,'St. Clair College',5
-601,0,'Downtown Transit Terminal',6
-600,0,'St. Clair College',6
-701,0,'College Ave Community Ctr',7
-700,0,'South Walker Rd',7
-801,0,'Downtown Transit Terminal',8
-800,0,'South Walker Rd',8
-1001,0,'North Loop',10
-1000,0,'South Loop',10
-1400,0,'Devonshire Mall',14
-1401,0,'Downtown Transit Terminal',14
-1000100,0,'Devonshire Mall',10001
-1000101,0,'Downtown Transit Terminal',10001
-3000101,0,'College Ave Community Ctr',30001
-3000100,0,'Forest Glade',30001
-23000301,0,'College Ave Community Ctr',230003
-23000300,0,'Downtown Transit Terminal',230003
-99999901,0,'Detroit',999999
-99999900,0,'Windsor Transit Terminal',999999
+201,1,'E',2
+202,1,'W',2
+301,1,'E',3
+302,1,'W',3
+401,1,'E',4
+402,1,'W',4
+503,1,'N',5
+504,1,'S',5
+603,1,'N',6
+604,1,'S',6
+701,1,'E',7
+702,1,'W',7
+803,1,'N',8
+804,1,'S',8
+1003,1,'N',10
+1004,1,'S',10
+1403,1,'N',14
+1404,1,'S',14
+1000103,1,'N',10001
+1000104,1,'S',10001
+3000101,1,'E',30001
+3000102,1,'W',30001
+23000301,1,'E',230003
+23000302,1,'W',230003
+99999903,1,'N',999999
+99999904,1,'S',999999
