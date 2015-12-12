@@ -33,7 +33,7 @@
 100109,'','McHugh @ Trappers',42.317567,-82.905984
 100113,'','McHugh @ Venetian',42.317926,-82.909204
 100116,'','Little River @ Banwell',42.325646,-82.903937
-100117,'','McHugh @ Clover',42.318213,-82.912034
+100117,'','McHugh @ Clover',42.318146,-82.911361
 100119,'','McHugh @ Cypress',42.31888,-82.918513
 100120,'','Little River @ Bellagio',42.325382,-82.907208
 100121,'','McHugh @ Florence',42.319297,-82.921774
@@ -48,7 +48,7 @@
 100156,'','McHugh @ Clover',42.318145,-82.913024
 100158,'','McHugh @ Cypress',42.318695,-82.918287
 100164,'','McHugh @ Mickey Renuad Way',42.320764,-82.926953
-100166,'','WFCU Main Entrance',42.319765,-82.928077
+100166,'','WFCU Ctr Main Entrance',42.319765,-82.928077
 100172,'','McHugh @ Darfield',42.322367,-82.932449
 100176,'','McHugh @ Lauzon',42.321998,-82.936312
 110001,'','Windsor Transit Terminal',42.317556,-83.043148
@@ -84,8 +84,8 @@
 110058,'','Tecumseh E @ Howard',42.297968,-83.017798
 110061,'','Howard @ Logan',42.295042,-83.01566
 110062,'','Howard @ Logan',42.295618,-83.015788
+110065,'','Howard @ Foch',42.293651,-83.014802
 110066,'','Howard @ Foch',42.293826,-83.014666
-110069,'','Howard @ Lens',42.292306,-83.013999
 110070,'','Howard @ Lens',42.292417,-83.013759
 110073,'','Howard @ Memorial',42.291411,-83.013471
 110077,'','Howard @ Eugenie',42.287874,-83.012853
@@ -102,8 +102,8 @@
 110096,'','Howard @ Devonshire Mall',42.273901,-83.004809
 110097,'','Howard @ Roundhouse',42.274177,-83.005404
 110101,'','Sydney @ Division',42.271987,-82.999822
-110105,'','Devonshire Mall @ Moxie''s',42.273675,-82.999957
-130001,'','College Ave Community Ctr',42.296128,-83.070897
+110105,'','Devonshire Mall @ Moxies',42.273675,-82.999957
+130001,'','College Ave @ Community Ctr',42.296128,-83.070897
 130005,'','College @ South',42.293237,-83.073293
 130009,'','College @ Prince',42.290037,-83.075296
 130013,'','Prince @ Carmichael',42.289258,-83.073689
@@ -115,7 +115,7 @@
 130033,'','Dorchester @ Redwood',42.286626,-83.059541
 130037,'','Felix @ Tecumseh',42.288853,-83.061994
 130041,'','Felix @ Manchester',42.290716,-83.064183
-130045,'','Felix @ Girardot',42.294051,-83.066445
+130045,'','Felix @ Girardot',42.293378,-83.065993
 130049,'','Felix @ Millen',42.295925,-83.067637
 130052,'','Felix @ College',42.297013,-83.068489
 130053,'','Felix @ College',42.297489,-83.068611
@@ -153,8 +153,8 @@
 130112,'','University @ Bruce',42.316048,-83.045611
 130113,'','University @ Bruce',42.315993,-83.045122
 130115,'','Victoria @ University',42.317265,-83.041098
-130116,'','Windsor Transit Terminal',42.317439,-83.043316
-130117,'','Windsor Transit Terminal',42.317835,-83.043517
+130116,'','Transit Terminal @ Chatham',42.317439,-83.043316
+130117,'','Transit Terminal @ Chatham',42.317835,-83.043517
 130124,'','University @ Ouellette',42.317535,-83.039553
 130176,'','Tecumseh @ Howard',42.29819,-83.016817
 130177,'','Tecumseh @ Howard',42.297811,-83.017495
@@ -257,7 +257,7 @@
 130382,'','Wildwood @ Holly',42.300032,-82.913178
 130386,'','Rosebriar @ Wildwood',42.300716,-82.912016
 130390,'','Forest Glade @ Elmwood',42.303504,-82.913019
-140001,'','Windsor Transit Terminal',42.317495,-83.043368
+140001,'','Transit Terminal @ Chatham',42.317495,-83.043368
 140005,'','Ferry @ Riverside',42.319026,-83.041609
 140010,'','Chatham @ Goyeau',42.318663,-83.038017
 140014,'','Chatham @ Glengarry',42.320135,-83.031885
@@ -321,8 +321,8 @@
 140164,'','South Service Rd @ Devon',42.279825,-82.998423
 140168,'','Marentette @ South Service Rd',42.278116,-83.000262
 140170,'','Marentette @ Sydney',42.274305,-82.997831
-140171,'','Devonshire Mall @ Moxie''s',42.273769,-82.999651
-200001,'','College Ave Community Ctr',42.296148,-83.070959
+140171,'','Devonshire Mall @ Moxies',42.273769,-82.999651
+200001,'','College Ave @ Community Ctr',42.296148,-83.070959
 200004,'','College @ South',42.293315,-83.073099
 200008,'','College @ Prince',42.28997,-83.075137
 200010,'','Prince @ King',42.290332,-83.077903
@@ -438,8 +438,8 @@
 200245,'','Wyandotte @ Eastlawn',42.332764,-82.947185
 200248,'','Wyandotte @ Matt. Brady',42.333049,-82.946674
 200249,'','Wyandotte @ St. Paul',42.333089,-82.945306
-200252,'','Lauzon @ Wyandotte',42.33403,-82.944336
-200253,'','Lauzon @ Wyandotte',42.33416,-82.944217
+200252,'','Lauzon @ Wyandotte',42.333467,-82.944248
+200253,'','Lauzon @ Wyandotte',42.333717,-82.943939
 200256,'','Lauzon @ Cedarview',42.335465,-82.945235
 200257,'','Lauzon @ Cedarview',42.336073,-82.945411
 200260,'','Lauzon @ Cecile',42.338183,-82.946916
@@ -454,7 +454,7 @@
 200280,'','Riverside @ Shoreline Towers',42.342395,-82.939781
 200281,'','Riverside @ Bayview Towers',42.34239,-82.939092
 200284,'','Riverside @ Riverside Towers',42.342434,-82.938032
-200285,'','Riverside @ St. Clair Towers',42.342225,-82.937438
+200285,'','Riverside @ St Clair Towers',42.342225,-82.937438
 200288,'','Riverside @ Solidarity Towers',42.341451,-82.935565
 200289,'','Riverside @ Isl Vw Towers',42.34134,-82.935647
 200292,'','Riverside @ Marina',42.340133,-82.933238
@@ -469,21 +469,21 @@
 200309,'','Riverdale @ Jerome',42.331265,-82.929641
 200312,'','Riverdale @ St. Rose',42.329508,-82.92908
 200313,'','Riverdale @ St. Rose',42.329113,-82.929123
-200314,'','Little River Acres @ Little Rive',42.327024,-82.928523
+200314,'','Little RiverAcres @ LittleRiver',42.327024,-82.928523
 200316,'','Little River Acres @ Aire',42.325686,-82.928494
 200317,'','Little River Acres @ Abbey',42.326567,-82.928708
 200320,'','Little River Acres @ Bayswater',42.324116,-82.929248
 200321,'','Little River Acres @ Aire',42.325274,-82.928681
 200324,'','Little River Acres @ Cottage',42.324011,-82.931291
-200325,'','Little River Acres @ Copperfield',42.324161,-82.930611
+200325,'','Little RiverAcres @ Copperfield',42.324161,-82.930611
 200328,'','Little River Acres @ Foxhill',42.325162,-82.933965
 200329,'','Little River Acres @ Foxhill',42.325451,-82.933941
 200332,'','Little River Acres @ Gateside',42.326461,-82.934749
-200333,'','Little River Acres AtLittle River',42.326897,-82.934566
+200333,'','Little RiverAcres @ LittleRiver',42.326897,-82.934566
 200337,'','Little River @ Laporte',42.327291,-82.938144
 200341,'','Lauzon Rd. @ Edgar',42.326552,-82.939774
 200345,'','Lauzon Rd. @ ABC Day Nursery',42.325056,-82.938828
-200348,'','Lauzon @ Little Riv.',42.327162,-82.938913
+200348,'','Lauzon @ Little River',42.327162,-82.938913
 200349,'','Tranby @ Lauzon Rd.',42.324069,-82.938198
 200352,'','Lauzon @ Trinity Towers',42.325478,-82.938774
 200353,'','Lauzon Pkwy @ Lauzon Line',42.321833,-82.938108
@@ -491,7 +491,7 @@
 200357,'','Lauzon Pkwy @ VIA Tracks',42.317984,-82.93907
 200360,'','Lauzon Pkwy @ Lauzon Line',42.320172,-82.938203
 200361,'','Tecumseh Mall Rear Entrance',42.316058,-82.936818
-222201,'','Windsor Transit Terminal',42.317898,-83.043254
+222201,'','Transit Terminal @ Chatham',42.317898,-83.043254
 222209,'','Pitt @ Goyeau',42.319246,-83.038281
 222215,'','City Hall Sq @ Windsor',42.316661,-83.035522
 222217,'','Canada Customs @ Duty Free',42.315778,-83.036554
@@ -511,7 +511,7 @@
 222257,'','Cass @ Michigan',42.331505,-83.05237
 222260,'','Michigan @ Shelby',42.331566,-83.050097
 222261,'','Times Sq @ RPTC',42.333266,-83.052442
-300001,'','College Ave Community Ctr',42.295927,-83.071225
+300001,'','College Ave @ Community Ctr',42.295927,-83.071225
 300005,'','South @ College',42.292947,-83.072973
 300009,'','South @ Barrymore',42.292037,-83.070274
 300013,'','Girardot @ South',42.291412,-83.06903
@@ -527,7 +527,7 @@
 300065,'','Brunet @ Industrial',42.27802,-83.057529
 300069,'','Industrial @ Windsor ABC',42.275423,-83.056581
 300073,'','Ambassador @ Industrial',42.275515,-83.052902
-300077,'','Ambassador @ Shoppers UrgentCare',42.278093,-83.054529
+300077,'','Ambassador A Urgent Care',42.278093,-83.054529
 300081,'','Ambassador @ Malden',42.281557,-83.056758
 300085,'','Daytona @ Malden',42.283795,-83.054446
 300089,'','Daytona @ Totten',42.28586,-83.055764
@@ -664,7 +664,7 @@
 300902,'','Crawford @ Riverside',42.316626,-83.050765
 300905,'','Crawford @ University',42.314443,-83.049557
 300906,'','Crawford @ University',42.314984,-83.049702
-400001,'','Windsor Transit Terminal',42.317691,-83.04345
+400001,'','Transit Terminal @ Chatham',42.317691,-83.04345
 400013,'','Ouellette @ Wyandotte',42.313773,-83.036803
 400029,'','Giles @ Ouellette',42.305399,-83.030652
 400030,'','Giles @ Ouellette',42.305514,-83.030992
@@ -778,7 +778,7 @@
 400313,'','Tecumseh Mall Rear Entrance',42.315995,-82.936188
 400314,'','Tecumseh Mall Rear Entrance',42.316121,-82.936446
 400325,'','Lauzon Rd. @ Yolanda',42.31313,-82.931305
-400330,'','Lauzon @ Yolanda',42.312261,-82.930504
+400330,'','Lauzon @ Yolanda',42.312735,-82.930775
 400333,'','Lauzon Rd. @ Hawthorne',42.310569,-82.929657
 400334,'','Lauzon @ Hawthorne',42.310282,-82.929282
 400337,'','Hawthorne @ Sycamore',42.309807,-82.931775
@@ -798,7 +798,7 @@
 400400,'','Cantelon @ Kew',42.302735,-82.936256
 400991,'','Walker @ Ontario',42.315915,-83.003141
 400992,'','Walker @ Ontario',42.316246,-83.003544
-500001,'','Windsor Transit Terminal',42.317783,-83.04347
+500001,'','Transit Terminal @ Chatham',42.317783,-83.04347
 500004,'','Caron @ Riverside',42.317724,-83.048119
 500005,'','Riverside @ Caron',42.317743,-83.048562
 500008,'','Riverside @ Oak',42.317042,-83.05224
@@ -869,10 +869,10 @@
 500138,'','Beals @ Charlevoix',42.25729,-83.026443
 500141,'','Cousineau @ Huron Line',42.242288,-83.014189
 500142,'','Glenwood @ Beals',42.25766,-83.024339
-500145,'','St. Clair College Front Entrance',42.246032,-83.017961
+500145,'','St. Clair @ Front',42.246032,-83.017961
 500146,'','Glenwood @ Cabana',42.254231,-83.022176
 500150,'','Geraedts @ St. Clair Residence',42.248587,-83.021156
-600001,'','Windsor Transit Terminal',42.317601,-83.043387
+600001,'','Transit Terminal @ Chatham',42.317601,-83.043387
 600006,'','Bruce @ University',42.316003,-83.044749
 600009,'','Janette @ Pk',42.314769,-83.045452
 600010,'','Bruce @ Pk',42.31483,-83.044003
@@ -911,7 +911,7 @@
 600076,'','Dougall @ EC Row',42.278362,-83.017164
 600077,'','Dougall @ EC Row',42.277649,-83.017139
 600080,'','Dougall @ West Grand',42.27379,-83.014257
-600081,'','Dougall @ W. Grand',42.272893,-83.01403
+600081,'','Dougall @ West Grand',42.272893,-83.01403
 600084,'','Dougall @ Nottingham',42.269981,-83.011795
 600085,'','Dougall @ Nottingham',42.270078,-83.012235
 600089,'','Dougall @ Norfolk',42.268169,-83.011018
@@ -1011,15 +1011,16 @@
 700146,'','Howard @ Maguire',42.264068,-82.998966
 700149,'','Howard @ Kenilworth',42.26867,-83.00169
 700150,'','Howard @ Kenilworth',42.267892,-83.001374
-700153,'','Devonshire Mall @ Moxie''s',42.273473,-82.999668
-700154,'','Devonshire Mall @ Moxie''s',42.273731,-82.999778
-700156,'','Marentette @ Forster',42.271251,-82.995891
+700153,'','Devonshire Mall @ Moxies',42.273473,-82.999668
+700154,'','Devonshire Mall @ Moxies',42.273731,-82.999778
+700156,'','Marentette @ Foster',42.271251,-82.995891
 700157,'','Marentette @ Foster',42.269977,-82.995238
 700160,'','Marentette @ Division',42.267493,-82.99347
 700161,'','Marentette @ Division',42.266897,-82.993289
 700165,'','Provincial @ Clarke',42.262137,-82.985033
 700169,'','Provincial @ Cabana',42.259892,-82.980907
-700173,'','Provincial @ Lone Pine',42.257468,-82.976481
+700171,'','Provincial @ Sixth Concession',42.258428,-82.978288
+700173,'','Provincial @ Lone Pine',42.256693,-82.974984
 700176,'','Division @ Rosewood',42.262938,-82.984694
 700177,'','Provincial @ Monarch Basics',42.25542,-82.972734
 700178,'','Division @ Conservation Area',42.261999,-82.981058
@@ -1027,7 +1028,7 @@
 700181,'','Provincial @ Legacy Pk',42.254167,-82.970403
 700184,'','Division @ Turner',42.262992,-82.97043
 700185,'','Legacy Pk @ Sears Home',42.253805,-82.966134
-800001,'','Windsor Transit Terminal',42.317757,-83.043694
+800001,'','Transit Terminal - Church @ Pitt',42.317757,-83.043694
 800005,'','Riverside @ Ouellette',42.319722,-83.03931
 800006,'','Ferry @ Pitt',42.318654,-83.041605
 800009,'','Riverside @ McDougall',42.32033,-83.036541
@@ -1069,13 +1070,9 @@
 800078,'','Lincoln @ Vimy',42.297222,-83.000082
 800081,'','Lincoln @ Ypres',42.294987,-82.998816
 800082,'','Ypres @ Lincoln',42.295085,-82.998299
-800085,'','Ypres @ Chilver',42.29537,-82.996978
-800086,'','Ypres @ Chilver',42.295645,-82.996781
 800089,'','Ypres @ Kildare',42.295937,-82.995428
 800090,'','Ypres @ Kildare',42.295977,-82.995775
-800093,'','Ypres @ Byng',42.296835,-82.992856
-800094,'','Ypres @ Byng',42.296729,-82.993657
-800097,'','Ypres @ Walker',42.297327,-82.99146
+800097,'','Ypres @ Walker',42.297162,-82.99191
 800098,'','Ypres @ Turner',42.297258,-82.992214
 800101,'','Walker @ Somme',42.295082,-82.989935
 800102,'','Walker @ Somme',42.295321,-82.989791
@@ -1132,6 +1129,6 @@
 800205,'','North Talbot @ Dumouchelle',42.240854,-82.971536
 800208,'','Sixth Concession @ Holburn',42.249974,-82.979464
 800209,'','North Talbot @ Old West',42.242357,-82.977736
-800211,'','North Talbot @ Pioneer',42.242796,-82.97966
-800212,'','Sixth Concession @ 401',42.245135,-82.979663
+800211,'','North Talbot @ Pioneer Gas Stn',42.242796,-82.97966
+800212,'','Sixth Conscession @ 401',42.245135,-82.979663
 800213,'','Sixth Concession @ North Talbot',42.243252,-82.981504
