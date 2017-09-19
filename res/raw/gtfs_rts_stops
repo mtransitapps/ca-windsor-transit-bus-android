@@ -356,7 +356,7 @@
 1358,'1358','Little River Acres @ Aire',42.32524,-82.928695
 1359,'1359','Little River Acres @ Cottage',42.324002,-82.930596
 1360,'1360','Little RiverAcres @ Copperfield',42.32416089,-82.93061115
-1361,'1361','Little River Acres @ Darlington',42.32453,-82.933582
+1361,'1361','Little River Acres @ East Moor',42.324932,-82.933836
 1362,'1362','Little River Acres @ East Moor',42.324951,-82.933616
 1363,'1363','Little River Acres @ Little Riv',42.326924,-82.934772
 1364,'1364','Little RiverAcres @ LittleRiver',42.32689741,-82.9345661
@@ -1138,7 +1138,7 @@
 2166,'2166','Malden @ Rosati',42.23368,-83.06177
 2167,'2167','Malden @ Bouffard',42.229107,-83.061118
 2168,'2168','Vollmer Ctr Front Entrance',42.222375,-83.052636
-2169,'2169','Mike Rayond @ Malden',42.223037,-83.059816
+2169,'2169','Mike Raymond @ Malden',42.223037,-83.059816
 2170,'2170','Malden @ Laurier',42.225562,-83.060484
 2171,'2171','Malden @ Bouffard',42.229613,-83.061019
 2172,'2172','Malden @ Rosati',42.233211,-83.061561
@@ -1165,7 +1165,7 @@
 2193,'2193','Front @ Adams',42.234508,-83.102874
 2194,'2194','Front @ Boismier',42.232371,-83.103199
 2195,'2195','International @ Front',42.228934,-83.101868
-2196,'2196','Michigan @ Inernational',42.22774,-83.095545
+2196,'2196','Michigan @ International',42.22774,-83.095545
 2197,'2197','Michigan @ Fields',42.229775,-83.095458
 2198,'2198','Michigan @ Delaware',42.231812,-83.095329
 2199,'2199','Michigan @ Laurier',42.234375,-83.095199
@@ -1182,7 +1182,7 @@
 2210,'2210','Malden @ Valiant',42.236967,-83.061337
 2211,'2211','Malden @ Stuart',42.238472,-83.061246
 2212,'2212','Malden @ Edgemore',42.240057,-83.061132
-2213,'2213','Maldent @ Grillo',42.242651,-83.06099
+2213,'2213','Malden @ Grillo',42.242651,-83.06099
 2214,'2214','Malden @ Normandy',42.245101,-83.060797
 2215,'2215','Delmar @ Trinity',42.247882,-83.0571
 2216,'2216','Ellis @ Normandy',42.245284,-83.055463
@@ -1191,7 +1191,7 @@
 2219,'2219','Normandy @ Thirteenth',42.243848,-83.03328
 2220,'2220','Normandy @ Huron Church',42.243762,-83.030571
 2221,'2221','Huron Church @ Disputed',42.239423,-83.027599
-2222,'2222','Sandwich West @ Skinner',42.237685,-83.026483
+2222,'2222','Huron Church @ Skinner',42.237685,-83.026483
 2223,'2223','Sandwich West @ Huron Church',42.235988,-83.02395
 2224,'2224','Sandwich West @ Mary',42.236216,-83.02146
 2225,'2225','Sandwich West @ D''Amore',42.237212,-83.019256
