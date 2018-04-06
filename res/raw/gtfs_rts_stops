@@ -53,7 +53,7 @@
 1052,'1052','College Ave. @ Community Ctr',42.296128,-83.070897
 1053,'1053','College @ South',42.293141,-83.073344
 1054,'1054','College @ Prince',42.289941,-83.075347
-1055,'1055','Sandwich @ University',42.306604,-83.07319
+1055,'1055','Sandwich @ Chewitt',42.306162,-83.073529
 1056,'1056','Prince @ Barrymore',42.28881075,-83.07190705
 1057,'1057','Prince @ Mulford',42.2882687,-83.06971153
 1058,'1058','Prince @ Vaughan',42.28767379,-83.06729039
@@ -74,7 +74,7 @@
 1074,'1074','Sandwich @ Detroit',42.304499,-83.074479
 1075,'1075','Sandwich @ Detroit',42.304855,-83.074207
 1076,'1076','Little River @ Adair',42.327159,-82.937591
-1077,'1077','Riverside @ Rosedale',42.307106,-83.073061
+1077,'1077','Sandwich @ Chewitt',42.305907,-83.073985
 1078,'1078','University @ Huron Church',42.30788336,-83.07056398
 1079,'1079','University @ Huron Church',42.30802917,-83.0707573
 1080,'1080','University @ Patricia',42.308649,-83.068392
@@ -354,7 +354,7 @@
 1356,'1356','Little River Acres @ Abbey',42.326528,-82.928709
 1357,'1357','Jefferson @ E.C. Row',42.291766,-82.939928
 1358,'1358','Little River Acres @ Aire',42.32524,-82.928695
-1359,'1359','Little River Acres @ Cottage',42.324002,-82.930596
+1359,'1359','Little River Acres @ Copperfield',42.324002,-82.930596
 1360,'1360','Little RiverAcres @ Copperfield',42.32416089,-82.93061115
 1361,'1361','Little River Acres @ East Moor',42.324932,-82.933836
 1362,'1362','Little River Acres @ East Moor',42.324951,-82.933616
@@ -769,7 +769,7 @@
 1777,'1777','Dougall @ Nottingham Walmart',42.269944,-83.0118
 1778,'1778','Dougall @ Nottingham Walmart',42.270323,-83.012392
 1779,'1779','Dougall @ Norfolk',42.26816851,-83.01101784
-1780,'1780','Dougall @ Norfolk',42.267323,-83.010129
+1780,'1780','Dougall @ Norfolk',42.266953,-83.009896
 1781,'1781','Dougall @ Liberty',42.266447,-83.009913
 1782,'1782','Dougall @ Beals',42.26402981,-83.00807667
 1783,'1783','Dougall @ Beals',42.26329941,-83.00786476
