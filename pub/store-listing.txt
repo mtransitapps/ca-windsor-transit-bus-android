@@ -5,7 +5,7 @@ Transit Windsor Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from May 4, 2018 to September 8, 2018.
+Schedule from May 4, 2018 to September 11, 2018.
 ----------
 Full description:
 This app adds Transit Windsor buses information to MonTransit.
