@@ -3,6 +3,8 @@
     package="org.mtransit.android.ca_windsor_transit_bus"
     tools:ignore="MissingVersion" >
     <!-- REQUEST PERMISSIONS USAGE -->
+    <!-- INTERNET: Used for real time information and more -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- BROADCAST_RECEIVER: required to read modules data -->
     <uses-permission android:name="org.mtransit.android.receiver.permission.BROADCAST_RECEIVER" />
     <!-- DECLARES PERMISSIONS -->
@@ -71,6 +73,20 @@
             <meta-data
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
+        </provider>
+        <!-- STRATEGIC MAPPING PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.StrategicMappingProvider"
+            android:authorities="@string/strategic_mapping_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered">
+            <meta-data
+                android:name="@string/status_provider"
+                android:value="@string/status_provider" />
+            <meta-data
+                android:name="@string/status_provider_target"
+                android:value="@string/strategic_mapping_status_for_poi_authority" />
         </provider>
     </application>
 </manifest>
