@@ -1,16 +1,17 @@
-Title: Transit Windsor Bus - MonTran…
+Title: Transit Windsor Bus - MonTransit
 ----------
 Short description:
 Transit Windsor Bus for MonTransit.
-Schedule…
+Schedule. Real time.
 ----------
 What's new in this version?:
-Schedule from September 2, 2018 to December 8, 2018.
+Schedule from September 2, 2018 to December 11, 2018.
+Real-time predictions from windsor.mytransitride.com.
 ----------
 Full description:
 This app adds Transit Windsor buses information to MonTransit.
 
-This app provides the buses schedule.
+The app contains the planned schedule as well as real time predictions from windsor.mytransitride.com.
 
 Transit Windsor buses serve Windsor in Ontario, Canada.
 
@@ -27,6 +28,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-windsor-transit-bus-android
 
 This app is not related with Transit Windsor and the City of Windsor.
+
+Permissions:
+- Other: required for real-time schedule predictions from windsor.mytransitride.com
 ----------
 Application type: Applications
 ----------
