@@ -5,7 +5,7 @@ Transit Windsor Bus for MonTransit.
 Schedule. Real time.
 ----------
 What's new in this version?:
-Schedule from September 16, 2018 to December 16, 2018.
+Schedule from September 16, 2018 to December 22, 2018.
 Real-time predictions from windsor.mytransitride.com.
 ----------
 Full description:
