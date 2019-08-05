@@ -5,4 +5,6 @@
     <string name="strategic_mapping_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="strategic_mapping_api_url">https://windsor.mytransitride.com/api</string>
     <string name="strategic_mapping_api_timezone">@string/gtfs_rts_timezone</string>
+    <!-- https://windsor.mytransitride.com/api/Stop?term=771276 -->
+    <string name="strategic_mapping_api_search_term">Stop</string>
 </resources>
