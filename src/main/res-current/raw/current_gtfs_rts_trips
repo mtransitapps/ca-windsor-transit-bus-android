@@ -14,6 +14,8 @@
 2200,0,'Windsor TT Church @ Pitt',22
 2301,0,'Devonshire Mall @ Cineplex',23
 2300,0,'Windsor TT @ Chatham',23
+2400,0,'LCA',24
+2401,0,'Windsor TT',24
 2500,0,'HDGH',25
 2501,0,'Windsor TT @ Chatham',25
 2601,1,'E',26
@@ -26,4 +28,4 @@
 70102,1,'W',701
 261201,0,'Nature Fresh Farms Recreation Ct',2612
 261200,0,'St Clair College',2612
-348101,0,'Central 3 Loop',3481
+348101,0,'Central3Loop',3481
