@@ -231,8 +231,6 @@
 1509,'771845','Malden @ Delmar',42.24735321,-83.06094915
 1510,'771075','Sandwich @ Detroit',42.304855,-83.074207
 1511,'771048','Howard @ Devonshire Mall',42.27396,-83.004843
-1512,'771051','Devonshire Mall @ Moxies',42.27368,-82.999918
-1513,'771877','Devonshire Mall @ Moxies',42.27353,-82.999526
 1514,'771272','Wyandotte @ Devonshire',42.32329677,-83.01170465
 1515,'771273','Wyandotte @ Devonshire',42.322989,-83.012164
 1516,'771508','Mannheim @ Deziel',42.281202,-82.970091
@@ -327,7 +325,6 @@
 1609,'771578','Seminole @ Ellrose',42.317941,-82.97743
 1611,'771460','Drouillard @ Franklin',42.31626081,-82.99668382
 1612,'771461','Drouillard @ Franklin',42.31620642,-82.99682272
-1613,'771734','St Clair College Front Entrance',42.246094,-83.017841
 1616,'772095','Grand Marais @ Garvey',42.286281,-82.992629
 1617,'772096','Grand Marais @ Garvey',42.28590808,-82.99363379
 1618,'771363','Little River Acres @ Little Riv',42.326924,-82.934772
@@ -625,7 +622,6 @@
 1931,'771146','Tecumseh @ Norman',42.30773,-82.965616
 1932,'771399','Tecumseh @ Northway',42.29083522,-83.05720316
 1933,'771400','Tecumseh @ Northway',42.290695,-83.058434
-1934,'771718','Labelle @ Northway',42.26628463,-83.04152023
 1935,'771720','Grand Marais @ Northway',42.26282826,-83.03966535
 1936,'771857','Cabana @ Northway',42.251912,-83.032321
 1937,'771858','Cabana @ Northway',42.251903,-83.033188
@@ -873,7 +869,6 @@
 2204,'771413','Crawford @ Tecumseh',42.29938233,-83.03991275
 2205,'771025','Ouellette @ Tecumseh E',42.296973,-83.02561
 2206,'771171','Tecumseh Rd @ Eastpark Plz',42.312026,-82.942525
-2207,'771998','Tecumseh Mall Rear Entrance',42.31590001,-82.93669652
 2208,'772044','Prince @ Mulford',42.288482,-83.06997
 2209,'771173','Tecumseh Mall Rear Entrance',42.315997,-82.936179
 2210,'771174','Tecumseh Mall Rear Entrance',42.316078,-82.93662
@@ -1217,3 +1212,4 @@
 107091,'772260','Tecumseh Mall Rear Entrance',42.315908,-82.936701
 107092,'772262','Devonshire Mall @ Cineplex',42.273538,-82.99953
 107093,'772263','St Clair College Front Entrance',42.246102,-83.017846
+107518,'772261','Devonshire Mall @ Cineplex',42.273689,-82.999922
