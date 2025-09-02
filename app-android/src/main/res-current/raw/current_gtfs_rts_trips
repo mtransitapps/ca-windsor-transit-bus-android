@@ -8,16 +8,6 @@
 1901,0,'Transit Ctr',19
 2001,0,'Essex Way @ Meadowbrook',20
 2000,0,'Windsor TT',20
-2101,0,'St Clair College',21
-2100,0,'Windsor TT @ Chatham',21
-2201,0,'6th Concession @ N Talbot',22
-2200,0,'Windsor TT Church @ Pitt',22
-2301,0,'Devonshire Mall @ Cineplex',23
-2300,0,'Windsor TT @ Chatham',23
-2400,0,'Cass @ Michigan',24
-2401,0,'Windsor TT',24
-2601,1,'E',26
-2602,1,'W',26
 2800,0,'Tecmseh Mall',28
 2801,0,'Tecumseh Mall',28
 70101,1,'E',701
@@ -34,3 +24,13 @@
 643504,1,'S',6435
 647703,1,'N',6477
 647704,1,'S',6477
+721203,1,'N',7212
+721204,1,'S',7212
+721303,1,'N',7213
+721304,1,'S',7213
+721403,1,'N',7214
+721404,1,'S',7214
+721501,1,'E',7215
+721502,1,'W',7215
+722501,1,'E',7225
+722502,1,'W',7225
