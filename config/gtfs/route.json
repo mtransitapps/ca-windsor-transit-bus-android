@@ -77,8 +77,7 @@
   "trip_headsign_cleaners": [
     {
       "regex": "^[a-z]+[\\d]+$",
-      "ignore_case": true,
-      "replacement": ""
+      "ignore_case": true
     },
     {
       "regex": "^\\d+ (eastbound|westbound|northbound|southbound|e|w|n|s)",
@@ -112,13 +111,11 @@
     },
     {
       "is_word": true,
-      "regex": "rear entrance",
-      "replacement": ""
+      "regex": "rear entrance"
     },
     {
       "is_word": true,
-      "regex": "front entrance",
-      "replacement": ""
+      "regex": "front entrance"
     }
   ],
   "direction_finder_enabled": true,
