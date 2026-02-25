@@ -175,7 +175,7 @@ public class WindsorTransitBusAgencyTools extends DefaultAgencyTools {
 	private static final Pattern RSN_BOUNDS_ = Pattern.compile("(^\\d+ (eastbound|westbound|northbound|southbound|e|w|n|s))", Pattern.CASE_INSENSITIVE);
 	private static final String RSN_BOUNDS_REPLACEMENT = "$2";
 
-	private static final Pattern RLN_RSN_ = Pattern.compile("(^[a-z]+[\\d]+$)", Pattern.CASE_INSENSITIVE);
+	private static final Pattern RLN_RSN_ = Pattern.compile("(^[a-z]+[\\d]+[a-z]?$)", Pattern.CASE_INSENSITIVE);
 
 	@NotNull
 	@Override
