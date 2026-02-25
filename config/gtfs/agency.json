@@ -5,6 +5,8 @@
   "default_strings_cleaner_enabled": true,
   "to_lower_upper_case_strings": true,
   "ignore_upper_case_words": [
-    "HDGH"
+    "HDGH",
+    "LTW",
+    "418X"
   ]
 }
