@@ -103,7 +103,13 @@
       "regex": "front entrance"
     }
   ],
+  "direction_types": [
+    0,
+    1
+  ],
+  "direction_types_comment": "String & Direction",
   "direction_finder_enabled": true,
+  "stop_code_prepend_if_missing": "77",
   "stop_code_to_stop_id_configs": [
     {
       "stop_code": "Sto125649",
