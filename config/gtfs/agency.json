@@ -1,0 +1,13 @@
+{
+  "target_route_type_id": 3,
+  "default_color_enabled": true,
+  "default_color": "009AD6",
+  "default_strings_cleaner_enabled": true,
+  "to_lower_upper_case_strings": true,
+  "ignore_upper_case_words": [
+    "HDGH",
+    "LTW",
+    "LTW 42",
+    "418X"
+  ]
+}

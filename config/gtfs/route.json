@@ -1,0 +1,119 @@
+{
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": false,
+  "default_route_long_name_enabled": true,
+  "route_colors": [
+    {
+      "route_short_name": "1A",
+      "color": "B50C43"
+    },
+    {
+      "route_short_name": "1C",
+      "color": "4E1E18"
+    },
+    {
+      "route_short_name": "2",
+      "color": "F68312"
+    },
+    {
+      "route_short_name": "2222",
+      "color": "ED1248"
+    },
+    {
+      "route_short_name": "3",
+      "color": "FEDF3F"
+    },
+    {
+      "route_short_name": "3W",
+      "color": "CE910E"
+    },
+    {
+      "route_short_name": "4",
+      "color": "65C1EF"
+    },
+    {
+      "route_short_name": "5",
+      "color": "222771"
+    },
+    {
+      "route_short_name": "6",
+      "color": "FBC1A0"
+    },
+    {
+      "route_short_name": "7",
+      "color": "184A31"
+    },
+    {
+      "route_short_name": "8",
+      "color": "87CF32"
+    },
+    {
+      "route_short_name": "10",
+      "color": "F0319A"
+    },
+    {
+      "route_short_name": "14",
+      "color": "A67AC4"
+    },
+    {
+      "route_short_name": "25",
+      "color": "163A79"
+    },
+    {
+      "route_short_name": "42",
+      "color": "8000FF"
+    }
+  ],
+  "trip_excludes": [
+    {
+      "trip_headsign_regex": "notinservice",
+      "ignore_case": true
+    },
+    {
+      "trip_headsign_regex": "not in service",
+      "ignore_case": true
+    }
+  ],
+  "trip_headsign_cleaners": [
+    {
+      "regex": "^[a-z]+[\\d]+[a-z]?$",
+      "ignore_case": true
+    },
+    {
+      "regex": "^\\d+ (eastbound|westbound|northbound|southbound|e|w|n|s)",
+      "ignore_case": true,
+      "replacement": "$1"
+    },
+    {
+      "regex": "((?<=(^|\\W))(transit windsor terminal|transit windsor term|transit terminal|transit term)(?=(\\W|$)))",
+      "ignore_case": true,
+      "replacement": "Windsor Transit Terminal"
+    },
+    {
+      "is_word": true,
+      "regex": "hotel dieu grace healthcare",
+      "replacement": "HDGH"
+    },
+    {
+      "is_word": true,
+      "regex": "rear entrance"
+    },
+    {
+      "is_word": true,
+      "regex": "front entrance"
+    }
+  ],
+  "direction_types": [
+    0,
+    1
+  ],
+  "direction_types_comment": "String & Direction",
+  "direction_finder_enabled": true,
+  "stop_code_prepend_if_missing": "77",
+  "stop_code_to_stop_id_configs": [
+    {
+      "stop_code": "Sto125649",
+      "stop_id": 771262
+    }
+  ]
+}
