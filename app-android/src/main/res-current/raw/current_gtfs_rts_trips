@@ -1,37 +1,37 @@
-1601,0,'Devonshire Mall At Cineplex',16
-1600,0,'Windsor Windsor Windsor Transit Terminal',16
-1701,0,'Forest Glade At Mulberry',17
-1700,0,'HDGH',17
-1800,0,'HDGH',18
-1801,0,'Tecumseh Mall ',18
-1900,0,'HDGH',19
-1901,0,'Transit Centre ',19
-2001,0,'Essex Way At Meadowbrook',20
-2000,0,'Windsor Windsor Windsor Transit Terminal',20
-2800,0,'Tecmseh Mall ',28
-2801,0,'Tecumseh Mall ',28
-70101,0,'East',701
-70100,0,'West',701
+1601,0,'Devonshire Mall @ Cineplex',16
+1600,0,'Windsor Tt',16
+1701,0,'Forest Glade @ Mulberry',17
+1700,0,'Hdgh',17
+1800,0,'Hdgh',18
+1801,0,'Tecumseh Mall',18
+1900,0,'Hdgh',19
+1901,0,'Transit Ctr',19
+2001,0,'Essex Way @ Meadowbrook',20
+2000,0,'Windsor Windsor Windsor TT',20
+2800,0,'Tecmseh Mall',28
+2801,0,'Tecumseh Mall',28
+70101,0,'E',701
+70100,0,'W',701
 261201,0,'Nature Fresh Farms Recreation Ct',2612
-261200,0,'St Clair College ',2612
-400100,0,'St Clair College ',4001
-400101,0,'Tecmseh Mall ',4001
-463600,0,'HDGH',4636
-463601,0,'Lowes Sideroad At Dalhousie',4636
-552200,0,'HDGH',5522
-552201,0,'Tecumseh Mall ',5522
-643500,0,'North',6435
-643501,0,'South',6435
-647700,0,'North',6477
-647701,0,'South',6477
-721200,0,'North',7212
-721201,0,'South',7212
-721300,0,'North',7213
-721301,0,'South',7213
-721400,0,'North',7214
-721401,0,'South',7214
-721501,0,'East',7215
-721500,0,'West',7215
-722501,0,'East',7225
-722500,0,'West',7225
+261200,0,'St Clair College',2612
+400100,0,'St Clair College',4001
+400101,0,'Tecmseh Mall',4001
+463600,0,'Hdgh',4636
+463601,0,'Lowes Sideroad @ Dalhousie',4636
+552200,0,'Hdgh',5522
+552201,0,'Tecumseh Mall',5522
+643500,0,'N',6435
+643501,0,'S',6435
+647700,0,'N',6477
+647701,0,'S',6477
+721200,0,'N',7212
+721201,0,'S',7212
+721300,0,'N',7213
+721301,0,'S',7213
+721400,0,'N',7214
+721401,0,'S',7214
+721501,0,'E',7215
+721500,0,'W',7215
+722501,0,'E',7225
+722500,0,'W',7225
 722600,0,'Route 1000',7226
