@@ -14,16 +14,6 @@ public class WindsorTransitBusAgencyTools extends DefaultAgencyTools {
 		new WindsorTransitBusAgencyTools().start(args);
 	}
 
-	private static final long ROUTE_ID_0 = 15L;
-
-	@Override
-	public boolean allowNonDescriptiveHeadSigns(long routeId) {
-		if (routeId == ROUTE_ID_0 + 13L) { // 10
-			return true; // because 2 direction_id w/ same head-sign & last stop
-		}
-		return super.allowNonDescriptiveHeadSigns(routeId);
-	}
-
 	@NotNull
 	@Override
 	public List<Integer> getDirectionTypes() {

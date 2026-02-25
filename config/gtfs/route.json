@@ -74,6 +74,12 @@
       "ignore_case": true
     }
   ],
+  "direction_headsign_cleaners": [
+    {
+      "regex": "((?<=(^|\\W))(transit windsor terminal|transit windsor term|transit terminal|transit term)(?=(\\W|$)))",
+      "replacement": "Windsor Transit Terminal"
+    }
+  ],
   "trip_headsign_cleaners": [
     {
       "regex": "^[a-z]+[\\d]+$",
