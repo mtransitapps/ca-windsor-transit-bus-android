@@ -85,23 +85,7 @@
       "replacement": "$1"
     },
     {
-      "is_word": true,
-      "regex": "transit windsor terminal",
-      "replacement": "Windsor Transit Terminal"
-    },
-    {
-      "is_word": true,
-      "regex": "transit windsor term",
-      "replacement": "Windsor Transit Terminal"
-    },
-    {
-      "is_word": true,
-      "regex": "transit terminal",
-      "replacement": "Windsor Transit Terminal"
-    },
-    {
-      "is_word": true,
-      "regex": "transit term",
+      "regex": "((?<=(^|\\W))(transit windsor terminal|transit windsor term|transit terminal|transit term)(?=(\\W|$)))",
       "replacement": "Windsor Transit Terminal"
     },
     {
@@ -119,28 +103,6 @@
     }
   ],
   "direction_finder_enabled": true,
-  "direction_headsign_cleaners": [
-    {
-      "is_word": true,
-      "regex": "transit windsor terminal",
-      "replacement": "Windsor Transit Terminal"
-    },
-    {
-      "is_word": true,
-      "regex": "transit windsor term",
-      "replacement": "Windsor Transit Terminal"
-    },
-    {
-      "is_word": true,
-      "regex": "transit terminal",
-      "replacement": "Windsor Transit Terminal"
-    },
-    {
-      "is_word": true,
-      "regex": "transit term",
-      "replacement": "Windsor Transit Terminal"
-    }
-  ],
   "stop_code_to_stop_id_configs": [
     {
       "stop_code": "Sto125649",
