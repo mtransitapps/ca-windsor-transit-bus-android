@@ -1,2 +1,1 @@
-Transit Windsor Bus for MonTransit.
-Schedule. Real time.
+Transit Windsor Bus for MonTransit. Schedule. Real time.
