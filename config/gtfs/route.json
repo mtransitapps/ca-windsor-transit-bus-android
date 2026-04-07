@@ -110,10 +110,10 @@
   "direction_types_comment": "String & Direction",
   "direction_finder_enabled": true,
   "stop_code_prepend_if_missing": "77",
-  "stop_code_to_stop_id_configs": [
+  "stop_id_not_supported_configs": [
     {
-      "stop_code": "Sto125649",
-      "stop_id": 771262
+      "original_stop_id": "Sto125649",
+      "stop_id_int": 771262
     }
   ]
 }
