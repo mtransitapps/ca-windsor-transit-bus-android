@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <!-- using GTFS-RT trip updates instead -->
-    <string name="strategic_mapping_api_url">https://windsor.mytransitride.com/api</string>
-    <!-- https://windsor.mytransitride.com/api/Stop/GetBySearchTerm?term=771276 -->
-    <string name="strategic_mapping_api_search_term">Stop/GetBySearchTerm</string>
-</resources>
