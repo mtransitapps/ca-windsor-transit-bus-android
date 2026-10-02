@@ -110,8 +110,9 @@
   "direction_types_comment": "String & Direction",
   "direction_finder_enabled": true,
   "allow_non_descriptive_head_signs_until": {
-    "28": "20261001"
+    "28": "20271002"
   },
+  "allow_non_descriptive_head_signs_28": "Route 10 (direction ID provided but head sign is useless) > cannot fix",
   "stop_code_prepend_if_missing": "77",
   "stop_id_not_supported_configs": [
     {
